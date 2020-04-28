@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyAppV3</string>
+    <string name="orange_color">This is an orange TextView</string>
+    <string name="blue_color">This is an blue TextView</string>
+    <string name="green_color">This is an green TextView</string>
+    <string name="blue_button">THIS IS A BUTTON</string>
+    <string name="green_button">THIA IS A GREEN BUTTON</string>
+
+
+</resources>
